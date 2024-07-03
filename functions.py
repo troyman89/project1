@@ -1,3 +1,4 @@
+#generic import
 import random
 
 def functionName():
